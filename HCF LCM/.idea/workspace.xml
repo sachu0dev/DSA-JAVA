@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae580b3-38e5-47af-8d98-fa0054c0e21f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HCF LCM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap year/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap year/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap year/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap year/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap year/leap year.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multable/multable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../number sum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../number sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../number sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../number sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../number sum/number sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sum/sum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first java program/src/Inputs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
