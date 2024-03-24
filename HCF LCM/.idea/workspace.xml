@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae580b3-38e5-47af-8d98-fa0054c0e21f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../first java program/src/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/first java program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/src/Inputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/src/Temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first java program/src/typecasting.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,5 +60,16 @@
       <updated>1711115743739</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

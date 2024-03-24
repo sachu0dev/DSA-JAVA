@@ -1,15 +1,23 @@
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
-        System.out.println("Enter the year");
+        System.out.println("Enter the year:");
 
         int year = myObj.nextInt();
-        int test = year % 4;
-        if(test == 0){
-            System.out.println("its is a leap year");
-        } else{
-            System.out.println("not a leap year");
+        if (year % 4 == 0) {
+            if (year % 100 == 0) {
+                if (year % 400 == 0) {
+                    System.out.println("It is a leap year");
+                } else {
+                    System.out.println("Not a leap year");
+                }
+            } else {
+                System.out.println("It is a leap year");
+            }
+        } else {
+            System.out.println("Not a leap year");
         }
     }
 }
