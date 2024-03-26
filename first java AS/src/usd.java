@@ -1,0 +1,2 @@
+public class usd {
+}
